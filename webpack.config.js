@@ -1,4 +1,5 @@
 module.exports = {
+  devtool: 'eval',
   entry: './index.jsx',
   output: {
     filename: 'bundle.js',
